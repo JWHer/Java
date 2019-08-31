@@ -3,3 +3,5 @@
 
 Java GUI text searching program
 Basic IO/Threads/GUI practice
+
+![result](./result.PNG "Result")
